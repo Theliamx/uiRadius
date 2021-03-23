@@ -149,4 +149,3 @@ window.onload = function(){
    texta.value = `${topLeft.value}% ${topRight.value}% ${bottomRight.value}% ${bottomLeft.value}% / ${topLeft1.value}% ${topRight1.value}% ${bottomRight1.value}% ${bottomLeft1.value}%`;
    st.borderRadius = `${topLeft.value}% ${topRight.value}% ${bottomRight.value}% ${bottomLeft.value}% / ${topLeft1.value}% ${topRight1.value}% ${bottomRight1.value}% ${bottomLeft1.value}%`;
 };
-//Luego poner 4 más, ejemplo: 20px / 20px;
